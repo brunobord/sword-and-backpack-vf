@@ -7,3 +7,7 @@ Le [jeu original](http://swordandbackpack.tumblr.com/post/108176654598/sword-bac
 Traduction française par Bruno Bord.
 
 L'ensemble de ces documents sont déposés sous contrat [Creative Commons BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/fr/) (Attribution - Pas d'Utilisation Commerciale).
+
+## Notes
+
+Je me suis permis de corriger une typo présente dans le document anglais. Dans la section "An example of how the game is played", on trouve alternativement l'expression *Dread Wight* et *Dread Wizard*. Je pense que *Dread Wizard* est la mauvaise, on dit de cet ennemi que *"His bones are showing"*. J'ai donc tout remplacé par *Dread Wight*.
