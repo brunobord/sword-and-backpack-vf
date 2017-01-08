@@ -9,6 +9,7 @@ Traduction française par Bruno Bord.
 L'ensemble de ces documents sont déposés sous contrat [Creative Commons BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/fr/) (Attribution - Pas d'Utilisation Commerciale).
 
 * [Voici Sword & Backpack en français](sword-and-backpack-fr.md).
+* [Sword and Backpack, version booklet PDF](sword-and-backpack-fr.pdf)
 * et la version originale en texte brut est ici : [Sword & Backpack](sword-and-backpack-en.md).
 
 ## Notes

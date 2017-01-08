@@ -98,4 +98,4 @@ Le voleur commence son aventure avec une dague pour le combat, mais un voleur av
 *Magicien :* « T'as raison ! Je me relève et je lui jette une boule de feu ; mon dé fait 13 et avec mon bonus de 5 pour utilisation de la magie, ça fait 18 ! »  
 *Narrateur :* « J'ai fait 4. Le Spectre de l'Angoisse essaie d'esquiver, mais au dernier moment, la boule de feu le frappe de sa brûlure et le met à terre ! Il devra perdre encore quatre rounds, poursuivons le combat ! »  
 
-Les aventuriers devront continuer le combat jusqu'à ce que le Spectre de l'Angoisse soit vaincu et qu'ils aient pris son trésor ! Maintenant vous êtes prêts à jouer à Sword & Backpack!
+Les aventuriers devront continuer le combat jusqu'à ce que le Spectre de l'Angoisse soit vaincu et qu'ils aient pris son trésor ! Maintenant vous êtes prêts à jouer à Sword & Backpack !
